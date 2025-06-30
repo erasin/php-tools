@@ -10,3 +10,4 @@ homepage.workspace = true
 license.workspace = true
 
 [dependencies]
+ariadne = "0.5.1"

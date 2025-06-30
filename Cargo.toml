@@ -1,9 +1,10 @@
 [workspace]
 resolver = "2"
 members = [
-  "php-phaser",
+  "php-parser",
+  "php-format",
   "php-lint",
-  "php-lsp", "php-parser", "php-format",
+  "php-lsp",
 ]
 
 default-members = [
