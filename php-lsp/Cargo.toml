@@ -1,0 +1,12 @@
+[package]
+name = "php-lsp"
+publish = ["crates-io"]
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+categories.workspace = true
+repository.workspace = true
+homepage.workspace = true
+license.workspace = true
+
+[dependencies]

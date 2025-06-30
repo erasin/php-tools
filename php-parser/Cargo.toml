@@ -1,0 +1,15 @@
+[package]
+name = "php-parser"
+publish = ["crates-io"]
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+categories.workspace = true
+repository.workspace = true
+homepage.workspace = true
+license.workspace = true
+
+[dependencies]
+logos = "0.13.0"
+chumsky = "0.10.1"
+ariadne = "0.5.1"
